@@ -1,0 +1,16 @@
+{
+	users:[
+		{
+			'id': 1,
+			'name': 'robert gil',
+			'likes': 'modeling'
+		},
+		{
+			'id':2,
+			'name': 'raymart zafra',
+			'likes': 'programming',
+		}
+
+	]
+
+}
