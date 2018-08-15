@@ -1,6 +1,15 @@
 {
+   user:[
+      {
       "id": "1",
       "name": "Robert Gil",
       "email": "kingrg_pelayo@yahoo.com"
+      },
+      {
+      "id": "2",
+      "name": "Raymart",
+      "email": "Raymart@yahoo.com"
+      }
+     ]
 }
    
