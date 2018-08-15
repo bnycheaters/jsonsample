@@ -1,6 +1,6 @@
 {
-      id: 1,
-      name: "Robert Gil",
-      email: "kingrg_pelayo@yahoo.com",
+      'id': 1,
+      'name': "Robert Gil",
+      'email': "kingrg_pelayo@yahoo.com",
 }
    
